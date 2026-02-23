@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "candle",
+  "base_artist": "Novelbright",
+  "createdAt": "2026-02-23T06:32:02.058761Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Old Flames Can't Hold a Candle to You",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/01_Old_Flames_Can't_Hold_a_Candle_to_You_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Candle",
+      "artist": "Lydia Ainsworth",
+      "has_synced": true,
+      "path": "select/02_Candle_Lydia_Ainsworth.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Candle Song 3",
+      "artist": "Mojave 3",
+      "has_synced": false,
+      "path": "select/03_Candle_Song_3_Mojave_3.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Candle In The Wind",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/04_Candle_In_The_Wind_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Anyone Can Light a Candle",
+      "artist": "Jon & Vangelis",
+      "has_synced": true,
+      "path": "select/05_Anyone_Can_Light_a_Candle_Jon_&_Vangelis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Candle",
+      "artist": "Mystery Jets",
+      "has_synced": false,
+      "path": "select/06_Candle_Mystery_Jets.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Light a Candle",
+      "artist": "Ducktails",
+      "has_synced": true,
+      "path": "select/07_Light_a_Candle_Ducktails.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "That One Blue Candle",
+      "artist": "Tiffany",
+      "has_synced": true,
+      "path": "select/08_That_One_Blue_Candle_Tiffany.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Game That's Worth the Candle",
+      "artist": "Alan Watts",
+      "has_synced": false,
+      "path": "select/09_A_Game_That's_Worth_the_Candle_Alan_Watts.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Candle In The Wind",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/10_Candle_In_The_Wind_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Light a Roman Candle With Me",
+      "artist": "fun.",
+      "has_synced": true,
+      "path": "select/11_Light_a_Roman_Candle_With_Me_fun..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "When the Candle Fades",
+      "artist": "Hypocrisy",
+      "has_synced": true,
+      "path": "select/12_When_the_Candle_Fades_Hypocrisy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No Candle No Light",
+      "artist": "ZAYN feat. Nicki Minaj",
+      "has_synced": true,
+      "path": "select/13_No_Candle_No_Light_ZAYN_feat._Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Candle",
+      "artist": "Skinny Puppy",
+      "has_synced": false,
+      "path": "select/14_Candle_Skinny_Puppy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "candle",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/pl_01_candle_Novelbright.txt"
+    }
+  ]
+}
